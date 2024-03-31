@@ -3,6 +3,7 @@
 ## Start the client BabylonJS app
 
 ```bash
+cd babylonjs-embedding
 cd client
 npm i
 npm run dev
